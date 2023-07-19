@@ -607,7 +607,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: url("../image/IMG-1736.jpg");
+  background-image: url("../image/IMG-1736.JPG");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -643,9 +643,9 @@ body.preloader-site {
 }
 
 .instagram {
-  color: #996E6D;
+  color: #000;
   font-size: 1.25rem;
-  font-weight: 900;
+  font-weight: 300;
   margin-top: 0.5rem;
   display: inline-block;
   vertical-align: middle;

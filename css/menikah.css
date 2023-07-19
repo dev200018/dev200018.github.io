@@ -565,7 +565,8 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/IMG-20221129-WA0003.jpg");
+  background-image: url("../image/IMG-20221129-WA0003.jpg");
+/*     linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)),  */
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -574,7 +575,7 @@ body.preloader-site {
 
 
 .foto2 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/6176805159909307582-121.jpg");
+  background-image: url("../image/6176805159909307582-121.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -582,7 +583,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/IMG-20221129-WA0005.jpg");
+  background-image: url("../image/IMG-20221129-WA0005.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -590,7 +591,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/IMG-20221215-WA0000zZZ.jpg");
+  background-image: url("../image/IMG-20221215-WA0000zZZ.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -598,7 +599,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/IMG-20221129-WA0002.jpg");
+  background-image: url("../image/IMG-20221129-WA0002.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -607,7 +608,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/IMG-1736.jpg");
+  background-image: url("../image/IMG-1736.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;

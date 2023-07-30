@@ -127,7 +127,7 @@ html {
 .main-content {
   padding-top: 2rem;
   color: #000; 
-  font-family: 'Palatino Linotype, sans-serif;
+  font-family: 'Palatino Linotype', sans-serif;
 }
 
 .main-content .section-dark {

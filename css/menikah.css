@@ -618,7 +618,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: url("../image/IMG-1736.jpg");
+  background-image: url("../image/IMG-1736.JPG");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -650,7 +650,7 @@ body.preloader-site {
   background: linear-gradient(hsla(0, 100%, 97%, 0.317),rgba(247, 85, 85, 0.199)), url(../image/Web1920–6.png); /* background-image: url(../image/Web1920–5.png); */
   background-position: bottom center;
   background-repeat: no-repeat;
-  background-size: 1530px;
+  background-size: 1600px;
   
 }
 

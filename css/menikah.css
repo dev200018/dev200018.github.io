@@ -39,9 +39,9 @@ html {
 
 .hero {
   /* background-image: url(https://picsum.photos/id/25/1920/1080); */
-  background: linear-gradient(rgba(191, 173, 114, 0.281),rgba(131, 88, 59, 0.427), rgba(255, 193, 238, 0.527)), rgba(0, 0, 0, 0.317) url("?resize=100%2C478&ssl=1") no-repeat;
+  background: linear-gradient(rgba(191, 173, 114, 0.281),rgba(131, 88, 59, 0.427), rgba(255, 193, 238, 0.527)), rgba(0, 0, 0, 0.317) url("https://i.pinimg.com/474x/26/84/9d/26849d1aa01717f6686c0f4e632a1c92.jpg?resize=100%2C478&ssl=1") no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: 100%;
   color: rgb(255, 255, 255);
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Palatino Linotype', sans-serif;

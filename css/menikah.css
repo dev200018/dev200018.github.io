@@ -39,7 +39,7 @@ html {
 
 .hero {
   /* background-image: url(https://picsum.photos/id/25/1920/1080); */
-  background: linear-gradient(rgba(191, 173, 114, 0.281),rgba(131, 88, 59, 0.427), rgba(255, 193, 238, 0.527)), rgba(0, 0, 0, 0.317) url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81Yl9x-u_02gNWeaZYotsv9_1XBSRxFmr6lAFZDAwrDiH1hlmQvbHA77LziYJTqO3hUI&usqp=CAU?resize=100%2C478&ssl=1") no-repeat;
+  background: linear-gradient(rgba(191, 173, 114, 0.281),rgba(131, 88, 59, 0.427), rgba(255, 193, 238, 0.527)), rgba(0, 0, 0, 0.317) url("?resize=100%2C478&ssl=1") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: rgb(255, 255, 255);

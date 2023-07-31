@@ -51,8 +51,8 @@ html {
 
 .hero .title {
   font-family: 'Great Vibes', sans-serif;
-  font-weight: 500;
-  transform: rotate(-2deg);
+  font-weight: 300;
+  transform: rotate(0deg);
   font-size: 5rem;
   padding-bottom: 5px;
   color: rgb(255, 255, 255);

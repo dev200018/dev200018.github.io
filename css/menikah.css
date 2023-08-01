@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Times New Roman|Great+Vibes");
+@import url("https://fonts.googleapis.com/css?family=Times New Roman|Tangerine");
 .has-vertically-aligned-content {
   display: flex;
   flex-direction: column;
@@ -10,7 +10,7 @@
 }
 
 html {
-  font-family: 'Times New Roman', Tahoma, sans-serif;
+  font-family: 'Times New Roman', sans-serif;
   width: 100%;
   min-height: 100%;
 }
@@ -50,7 +50,7 @@ html {
 
 
 .hero .title {
-  font-family: 'Great Vibes', sans-serif;
+  font-family: 'Tangerine';
   font-weight: 300;
   transform: rotate(0deg);
   font-size: 5rem;
@@ -307,7 +307,7 @@ html {
 }
 
 .nama-lengkap {
-  font-family: 'Great Vibes', sans-serif;
+  font-family: 'Tangerine';
   color: #814e4d;
   font-size: 3.5rem;
   letter-spacing: 0px;
@@ -317,7 +317,7 @@ html {
 
 .ampersand {
 font-size: 3rem;
-font-family: 'Great Vibes', sans-serif;
+font-family: 'Tangerine';
 color: #996E6D;
 line-height: 5rem;
 display: inline-block;

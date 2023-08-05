@@ -58,8 +58,8 @@ html {
   content: "";
   background: url("https://i.pinimg.com/474x/26/84/9d/26849d1aa01717f6686c0f4e632a1c92.jpg?resize=100%2C478&ssl=1");
   background-size: cover;
-  filter: blur(3px);
-  -webkit-filter: blur(3px);
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
   -webkit-filter: brightness(70%);
   filter: brightness(0%);
   background-color: #0000000a;

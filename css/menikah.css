@@ -40,7 +40,7 @@ html {
 
 .hero {
   /* background-image: url(https://picsum.photos/id/25/1920/1080); */
-  background: linear-gradient(rgba(148, 133, 82, 0.221),rgba(62, 37, 20, 0.418), rgba(112, 71, 101, 0.527)), rgba(0, 0, 0, 0.317) url("https://i.pinimg.com/474x/26/84/9d/26849d1aa01717f6686c0f4e632a1c92.jpg?resize=100%2C478&ssl=1") no-repeat;
+  background: linear-gradient(rgba(148, 133, 82, 0.221),rgba(62, 37, 20, 0.418), rgba(112, 71, 101, 0.527)), rgba(2, 2, 2, 0.123) url("https://i.pinimg.com/474x/26/84/9d/26849d1aa01717f6686c0f4e632a1c92.jpg?resize=100%2C478&ssl=1") no-repeat;
   background-attachment: fixed;
   background-size: 130%;
   background-position-x: center;

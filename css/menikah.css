@@ -89,11 +89,13 @@ html {
   padding: 35px;
   color: rgb(255, 255, 255);
   font-size: 1.3rem;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .hero .tempatwaktu {
   padding-top: 35px;
   font-size: 1.3rem;
+  font-family: 'Times New Roman', Times, serif;
   
 }
 

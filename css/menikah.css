@@ -37,7 +37,7 @@ html {
   font-color: #6d998c;
 }
 
-
+/* 
 .hero {
   /* background-image: url(https://picsum.photos/id/25/1920/1080); */
   background: linear-gradient(rgba(148, 133, 82, 0.221),rgba(62, 37, 20, 0.548), rgba(112, 71, 101, 0.502)), rgba(2, 2, 2, 0.123) url("https://i.pinimg.com/474x/26/84/9d/26849d1aa01717f6686c0f4e632a1c92.jpg?resize=100%2C478&ssl=1") no-repeat;
@@ -47,9 +47,34 @@ html {
   color: rgb(255, 255, 255);
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Times New Roman', sans-serif;
+} */
+
+.hero-body {
+  position: relative;
+  overflow: hidden;
 }
 
+.hero-body::before {
+  content: "";
+  background: url("https://i.pinimg.com/474x/26/84/9d/26849d1aa01717f6686c0f4e632a1c92.jpg?resize=100%2C478&ssl=1");
+  background-size: cover;
+  filter: brightness(80%);
+  background-color: #0000000a;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
 
+.content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
 
 .hero .title {
   font-family: 'Tangerine';

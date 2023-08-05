@@ -79,6 +79,14 @@ html {
   padding: 20px;
 }
 
+.days, .hours, .minutes, .seconds {
+  color: white; /* Change the text color to white for days, hours, minutes, and seconds */
+}
+
+.separator {
+  color: white; /* Change the text color to white for days, hours, minutes, and seconds */
+}
+
 .hero .title {
   font-family: 'Tangerine';
   font-weight: 300;

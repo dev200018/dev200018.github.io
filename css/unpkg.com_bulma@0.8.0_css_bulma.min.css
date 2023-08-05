@@ -12029,3 +12029,8 @@ print {
     background-color: #fafafa;
     padding: 3rem 1.5rem 6rem
 }
+
+.hero.title.is-block-desktop{
+    font-family: 'Calibri', sans-serif;
+    color: rgb(255, 255, 255);
+}

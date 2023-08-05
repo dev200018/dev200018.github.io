@@ -61,7 +61,7 @@ html {
   filter: blur(1px);
   -webkit-filter: blur(1px);
   -webkit-filter: brightness(70%);
-  filter: brightness(0%);
+  filter: brightness(70%);
   background-color: #0000000a;
   position: absolute;
   top: 0;
